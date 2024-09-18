@@ -27,6 +27,7 @@
     background: linear-gradient(90deg, rgba(255,255,255,1)70%, rgba(255,255,255,0) 145%);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
+
 }
 
 .description{
@@ -50,7 +51,7 @@
     width: 50%;
     z-index: 1;
     animation-name: avatarFloating;
-    animation-duration: 3s;
+    animation-duration: 2s;
     animation-iteration-count: infinite;
     animation-timing-function: ease-in-out;
 

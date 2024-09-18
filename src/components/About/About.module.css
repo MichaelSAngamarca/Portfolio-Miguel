@@ -25,7 +25,7 @@
 }
 
 .aboutImg{
-    width: 35%;
+    width: 70%;
 }
 
 .aboutItems{
@@ -53,8 +53,11 @@
 }
 
 .aboutItem h3{
-    font-size: 25px;
+    font-size: 30px;
     font-weight: 600;
+}
+.aboutItemText{
+    font-size: 17px;
 }
 
 @media screen and (max-width: 830px){

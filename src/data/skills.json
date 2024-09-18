@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Java",
+    "ImageSrc": "skills/java(1).png"
+  },
+
+  {
+    "title": "Python",
+    "ImageSrc": "skills/pythonlogo_1_-removebg-preview.png" 
+  },
+
+  {
+    "title": "SQL",
+    "ImageSrc": "skills/sql(1).png"
+  },
+
+  {
+    "title": "HTML",
+    "ImageSrc": "skills/html.png"
+  },
+
+  {
+    "title": "CSS",
+    "ImageSrc": "skills/css.png"
+  },
+
+  {
+    "title": "JavaScript",
+    "ImageSrc": "skills/11448a7a96ee808a3cdbaf0df9570976_1_-removebg-preview.png"
+  },
+
+  {
+    "title": "Node",
+    "ImageSrc": "skills/node.png"
+  },
+
+  {
+    "title": "React",
+    "ImageSrc": "skills/react.png"
+  },
+  {
+    "title": "Django",
+    "ImageSrc": "skills/django-icon(1).png"
+
+  }
+
+]

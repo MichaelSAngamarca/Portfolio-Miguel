@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React from "react";
 import styles from "./Navbar.module.css";
 import { useState } from "react";
@@ -10,7 +11,7 @@ const Navbar = () => {
     <nav className={styles.Navbar}>
       <a className={styles.title} href="/">
         {" "}
-        Portfolio
+        Michael Angamarca
       </a>
       <div className={styles.menu}>
         <img

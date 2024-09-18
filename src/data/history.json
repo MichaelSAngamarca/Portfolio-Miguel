@@ -1,0 +1,23 @@
+[
+    {
+        "Role": "Information Technology Intern",
+        "Organization": "Hendrick Hudson School District",
+        "startDate": "June 2022",
+        "endDate": "August 2022",
+        "experience": [
+            "Collaborated with the IT department of a local school to manage server operations, data entry, and computer imaging."
+        ]
+        
+    },
+
+    {
+        "Role": "Google Data Analytics Certified",
+        "Organization": "Google On Coursera",
+        "startDate" : "December 2023",
+        "endDate": "December 2025",
+        "experience": [
+            "Have shown proficiency in leveraging data analytics tools such as Python, and SQL for data manipulation and scripting analysis as well as Microsoft Excel, Tableau, Matplotlib, and PlotLy for creating visualizations."
+        ]
+
+    }
+]

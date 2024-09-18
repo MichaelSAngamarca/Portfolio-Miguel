@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import React from "react";
 import { getImageUrl } from "../../utils";
 import styles from "./About.module.css";
@@ -20,21 +21,11 @@ const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Software Developer</h3>
               <p>
-                I am a Software Developer with expierence in building responsive
-                and optimized programs in a variety of programming languages
-              </p>
-            </div>
-          </li>
-          <li className={styles.aboutItem}>
-            <img
-              src={getImageUrl("about/serverIcon.png")}
-              alt="cursor icon"
-            ></img>
-            <div className={styles.aboutItemText}>
-              <h3>Backend Engineer</h3>
-              <p>
-                I have expierence in designing and devloping programs with fast
-                and optimized Backends
+                Developer with experience in designing and building
+                responsive user interfaces and high-performance back-end
+                systems. Proficient in Java, Python and well versed in JavaScript, React, and
+                Django, with an understanding of database management
+                and API integration.
               </p>
             </div>
           </li>
@@ -43,7 +34,12 @@ const About = () => {
             <img src={getImageUrl("about/uiIcon.png")} alt="ui icon"></img>
             <div className={styles.aboutItemText}>
               <h3>Data Analyst</h3>
-              <p>With a certification of Data Analytics from Google</p>
+              <p>
+                With a certification of Data Analytics from Google, I have
+                demonstrated my proficiency in leveraging data analytics tools
+                and techniques to extract valuable insights and make
+                data-informed decisions.
+              </p>
             </div>
           </li>
         </ul>

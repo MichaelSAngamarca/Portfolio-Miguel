@@ -1,0 +1,23 @@
+[
+  {
+    "ProjectName": "Listen With Friends!: Music Listening Room",
+    "ImageSrc": "projects/project.png",
+    "description": "Developed an interactive music listening room, implementing full-stack solutions for actions like playing, pausing, and skipping songs",
+    "skills": ["React", "Django"],
+    "source": "https://github.com/MichaelSAngamarca/LWF-MichaelSAngamarca"
+  },
+  {
+    "ProjectName": "BASIC Programming Language Interpreter",
+    "ImageSrc": "projects/project.png",
+    "description": "Utilized principal language design to create an interpreter for the programming language BASIC",
+    "skills": ["Java"],
+    "source": "https://github.com/MichaelSAngamarca/BASIC-Programming-Language-Interpreter"
+  },
+  {
+    "ProjectName": "Electronic Sound Oscilattor",
+    "ImageSrc": "projects/project.png",
+    "description": "Developed a GUI based sound oscillator, capable of generating and visualizing various audio waveforms",
+    "skills": ["Java"],
+    "source": "https://github.com/MichaelSAngamarca/Java_Simple_Oscilator"
+  }
+]
