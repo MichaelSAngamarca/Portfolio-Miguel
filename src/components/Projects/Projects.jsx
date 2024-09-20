@@ -26,6 +26,7 @@ const Projects = () => {
                 })}
               </ul>
               <div className={styles.Links}>
+                <a href = {project.demo} className = {styles.Link}>Demo</a>
                 <a href={project.source} className={styles.Link}>
                   Source
                 </a>

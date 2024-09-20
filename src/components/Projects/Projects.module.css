@@ -18,17 +18,22 @@
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  gap: 15px;
+  gap: 35px;
   width: 100%;
+  padding: 100px;
 }
 .descriptionContainer{
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
     border-radius: 10px;
     background: linear-gradient(180deg,#576cbc 0%, #132a53 100%);
     box-shadow: 0 16px 14px 0 #04152d;
     padding: 10px 24px;
+    width: 100%;
     max-width: 345px;
+    min-height: 500px;
+    box-sizing: border-box;
 }
 .projectImage{
     margin-bottom: 26px;
